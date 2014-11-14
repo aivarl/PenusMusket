@@ -75,7 +75,6 @@
     <instance objName="obj_enemy1" x="288" y="448" name="inst_1DF6B2A6" locked="0" code="" scaleX="3" scaleY="3" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall2" x="1472" y="544" name="inst_4846EB3E" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
     <instance objName="obj_wall2" x="768" y="544" name="inst_2AFE5E47" locked="0" code="" scaleX="1" scaleY="1" colour="4294967295" rotation="0"/>
-    <instance objName="&lt;undefined&gt;" x="0" y="0" name="inst_0CDBFE7F" locked="0" code="" scaleX="0" scaleY="0" colour="0" rotation="0"/>
     <instance objName="obj_enemy1" x="1088" y="448" name="inst_985DF057" locked="0" code="" scaleX="-3" scaleY="3" colour="4294967295" rotation="0"/>
     <instance objName="obj_enemy1" x="1312" y="384" name="inst_5E63D2A0" locked="0" code="" scaleX="3" scaleY="3" colour="4294967295" rotation="0"/>
   </instances>
